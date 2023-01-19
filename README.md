@@ -7,7 +7,7 @@
 
 <h2> Certifications</h2>
 
-- [Security +](https://www.credly.com/badges/5ce1f5e0-85c2-4a48-8242-3fdc84d1f1cd?source=linked_in_profile)
+- [Comptia Security +](https://www.credly.com/badges/5ce1f5e0-85c2-4a48-8242-3fdc84d1f1cd?source=linked_in_profile)
 
 
 <h2>📺 Popular YouTube Videos</h2>
