@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [SIEM](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SIEM](https://github.com/GriffinDuck/SIEM-Project/blob/main/README.md)
 
 <h2> Certifications</h2>
 
