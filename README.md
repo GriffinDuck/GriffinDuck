@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [SIEM](https://github.com/GriffinDuck/SIEM-Project/blob/main/README.md)
+  - [Azure-SOC](https://github.com/GriffinDuck/Azure-Soc)
 
 <h2> Certifications</h2>
 
