@@ -7,8 +7,8 @@
 
 <h2> Certifications</h2>
 
-- [Comptia Security +](https://www.credly.com/badges/5ce1f5e0-85c2-4a48-8242-3fdc84d1f1cd?source=linked_in_profile)
 - [Comptia CySA +](https://www.credly.com/badges/fbb63abf-d0ea-47bb-a3bf-d3a44abc4555/linked_in?t=rsllfp)
+- [Comptia Security +](https://www.credly.com/badges/5ce1f5e0-85c2-4a48-8242-3fdc84d1f1cd?source=linked_in_profile)
 
 <h2>📺 Popular YouTube Videos</h2>
 
