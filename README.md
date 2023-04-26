@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-
+<b> Azure Cloud - Live SOC Project
   - [Azure-SOC](https://github.com/GriffinDuck/Azure-Soc)
 
 <h2> Certifications</h2>
