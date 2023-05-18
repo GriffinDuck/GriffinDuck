@@ -4,6 +4,7 @@
 
 <b> Azure Cloud - Live SOC Project
   - [Azure-SOC](https://github.com/GriffinDuck/Azure-Soc)
+
 <b> Lima Charlie - EDR Detection Project
   - [Lima-Charlie-EDR](https://github.com/GriffinDuck/LimaCharlie-EDR-Lab/blob/main/README.md)
 
